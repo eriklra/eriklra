@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erik Lara</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 - 💬 Ask me about **Java, PHP, Node.js and MySQL**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **erik_lara_@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
